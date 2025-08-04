@@ -1,4 +1,3 @@
-
 **Task 1 - Prodigy Infotech Data Science & Machine Learning Internship**
 
 This project implements a **Linear Regression model** to predict housing prices based on important features such as **square footage**, **number of bedrooms**, and **number of bathrooms**. It is part of my internship under the Data Science & Machine Learning domain at **Prodigy Infotech**.
